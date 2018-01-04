@@ -1,1 +1,1 @@
-Mini-textEditeur Application
+Simple Notepad Application 
